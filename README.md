@@ -21,7 +21,7 @@
 ```yaml
 Nome:         Luis Fellipe Valdrighi Garcia
 Localização:  Manduri - SP, Brasil
-Formação:     Engenharia de Software | Tecnologia da Informação
+Formação:     Engenharia de Software | Sistemas da Informação
 Experiência:  2+ anos de desenvolvimento profissional
 Foco:         Full Stack | Mobile | Desktop | APIs REST
 Status:       🟢 Aberto a oportunidades
